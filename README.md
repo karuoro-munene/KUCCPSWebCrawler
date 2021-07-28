@@ -15,7 +15,7 @@
 - activate the virtual environment ``` ~/:  source virtual/bin/activate```
 - install the requirements ``` ~/: pip install -r requirements.txt```
 - run any spider, for example, the [institution list](https://github.com/MercurialMune/KUCCPSWebCrawler/blob/main/kuccps/kuccps/spiders/institutions.py) spider ``` ~/: scrapy crawl institutions-table --output new-institutions.json --nolog```
-- a new file named ```new institutions.json``` will appear in root directory of your project
+- a new file named ```new-institutions.json``` will appear in root directory of your project
 
 
 #### Hire Me: 
