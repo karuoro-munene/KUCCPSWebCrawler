@@ -3,7 +3,7 @@
 
 
 
-      <img align="center" alt="Scrapy src="https://scrapy.org/img/scrapylogo.png" />
+<img align="center" alt="Scrapy src="https://scrapy.org/img/scrapylogo.png">
    
 
 #### About:
