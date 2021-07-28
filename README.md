@@ -8,5 +8,11 @@
 #### Licence:
 Free
 
+#### Recreating the project
+- clone this repo ```git clone https://github.com/MercurialMune/KUCCPSWebCrawler.git```
+- change directory to project ``` ~/: cd KUCCPSWebCrawler ```
+- 
+
+
 #### Hire Me: 
-Through this [email](mailto:munenecyp@gmail.com) or call on [+254769703150]() for scripts or projects
+Through this [email](mailto:munenecyp@gmail.com) or call on +254 769 703150 for scripts or projects
