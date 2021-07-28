@@ -1,11 +1,6 @@
 
 ### Crawling KUCCPS Placement Data
 
-
-
-<img align="center" alt="Scrapy src="https://scrapy.org/img/scrapylogo.png">
-   
-
 #### About:
 * The scraper is built on [Scrapy](https://docs.scrapy.org/en/latest/index.html), an open source crawling framework built on python.
 * The data crawled is on placement of Kenyan undergraduate students into local universities by [KUCCPS](https://kuccps.net/).
