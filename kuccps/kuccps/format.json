@@ -1,0 +1,28 @@
+
+[
+  {
+    "__comment__": "This is the format I intend the scraped data to have",
+
+    "Degree": "Bachelor or Arts(Spatial Planning)",
+    "Minimum Entry Requirements": {
+      "CLUSTER SUBJECT 1": "MAT A",
+      "CLUSTER SUBJECT 2": "PHY",
+      "CLUSTER SUBJECT 3": "HAG / GEO / CRE / IRE / HRE",
+      "CLUSTER SUBJECT 4": "BIO / CHE / HAG / GEO / CRE / IRE / HRE / HSC / ARD / AGR / WW / MW / BC / PM / ECT / DRD / AVT / CMP / FRE / GER / ARB / KSL / MUC / BST"
+    },
+    "Minimum Subject Requirements": {
+      "SUBJECT 1": {
+        "MAT A": "C",
+        "PHY" : "C"
+      }
+    },
+    "Programmes": [
+      {
+        "Bachelor or Arts(Spatial Planning)": "Jaramogi Oginga Odinga University of Science and Technology",
+        "Bachelor or Architecture(Spatial Planning)": "Dedan Kimathi University of Technology"
+      }
+    ]
+
+  }
+
+]
