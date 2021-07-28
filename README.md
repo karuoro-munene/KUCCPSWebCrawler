@@ -1,9 +1,9 @@
-### Crawling KUCCPS Placement Data
+<p align="center>### Crawling KUCCPS Placement Data</p>
+
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    
+    <a href="https://scrapy.org">
+      <img alt="Scrapy src="https://scrapy.org/img/scrapylogo.png" />
+    </a>    
   </p>
 
 #### About:
