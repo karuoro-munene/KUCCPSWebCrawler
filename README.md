@@ -19,8 +19,4 @@
 
 
 #### Hire Me: 
-Through this [email](mailto:munenecyp@gmail.com) or call on +254 769 703150 for scripts or projects
-
-
-#### Licence:
-Free
+Through this [email](mailto:munenecyp@gmail.com) or call on +254 769 703150 for scripts or projects.
