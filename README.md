@@ -9,4 +9,4 @@
 Free
 
 #### Hire Me: 
-Through this [email](mailto:munenecyp@gmail.com) or [phone](tel://+254769703150) for scripts or projects
+Through this [email](mailto:munenecyp@gmail.com) or call on [+254769703150]() for scripts or projects
